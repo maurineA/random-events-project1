@@ -39,3 +39,15 @@ function getEvents(){
          });
      }
      
+        //The object is created after the input and submit event 
+    
+        todoForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const inputElem = document.getElementById('input');
+    
+            createListItem(inputElem.value);
+            inputElem.value = ''; // Clear the input field
+        });
+    
+   
+    
