@@ -1,0 +1,17 @@
+body #searchButton {
+    background-image: url(https://media.istockphoto.com/id/513550806/photo/teenager-hipster-friends-partying-by-blowing-colorful-confetti-from-hands.jpg?b=1&s=612x612&w=0&k=20&c=VExiM_BC8aOEEzuFcAIFb_-bseq2HWBNDlpasRU6A98=) !important;
+    background-size: cover;
+    padding:80px 0 30px 0;
+}
+
+#mybutton {
+	margin-top: 10%;
+    margin-left: 25%;
+    width: 550px;
+    height: 80px;
+}
+
+#heading , #subheading {
+    text-align: center;
+}
+
