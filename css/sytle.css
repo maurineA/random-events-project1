@@ -15,3 +15,30 @@ body #searchButton {
     text-align: center;
 }
 
+.mylist {
+    
+    align-items: center;
+    margin-top: 5%;
+    width: 550px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#input {
+    width: 550px;
+    height: 80px;
+
+}
+
+#button {
+
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+
+
+}
+
+

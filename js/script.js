@@ -39,8 +39,20 @@ function getEvents(){
          });
      }
      
-        //The object is created after the input and submit event 
+        //Creates the objects in the list 
+
+        const createListItem = (text) => {
+            // Create the elements that will appear on the list
+            const listItem = document.createElement('li');
+            listItem.textContent = text;
+            listItem.addEventListener('click', () => {
+                //console.log("Todo item clicked");
+            });
     
+            todoList.appendChild(listItem);
+        }
+    
+        //listens to the click and submits the input created
         todoForm.addEventListener('submit', (e) => {
             e.preventDefault();
             const inputElem = document.getElementById('input');
@@ -50,4 +62,4 @@ function getEvents(){
         });
     
    
-    
+      
