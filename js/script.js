@@ -26,7 +26,10 @@ function getEvents(){
 
                //display the fetched data from the public API to the DOM
               
-             
+               let eventList=document.getElementById('eventList')
+               let newLi = document.createElement('li')
+               newLi.innerText= data.activity
+               eventList.appendChild(newLi)
  
              
  
