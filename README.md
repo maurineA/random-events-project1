@@ -1,12 +1,12 @@
-# Student Grade Generator
+# RANDOM EVENTS PROJECT1
 
-Javascript Console Application That Generates Student Grades, OCTOBER 08/2023
+The Random Events Project1 Is An Application That Allows Users To Generates Random Activites And List Activities Of Their Choice And Submit, OCTOBER 26/2023
 
 By Maurine Wambui
 
 # Description
 
-This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
+This Application helps users to genetare in random activites that they can participate in. This Application also provide a platform for users to list their own activities. 
 
 # How to Use
 
