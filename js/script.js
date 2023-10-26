@@ -22,8 +22,11 @@ function getEvents(){
          fetch('http://www.boredapi.com/api/activity/')
          .then(res => res.json())
          .then(data => {
-             console.log(data)
-           
+             //console.log(data)
+
+               //display the fetched data from the public API to the DOM
+              
+             
  
              
  
