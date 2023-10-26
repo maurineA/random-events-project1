@@ -1,4 +1,7 @@
 let activity = [];
+let listItem = []
+let todoForm = document.querySelector('form');
+let todoList = document.querySelector('.todo-list');
 //check if the DOM is completed loaded
 document.addEventListener(`DOMContentLoaded`, ()=>{
     
@@ -35,8 +38,4 @@ function getEvents(){
  
          });
      }
-
-
-
-
-
+     
