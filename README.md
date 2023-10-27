@@ -12,6 +12,8 @@ This Application helps users to genetare in random activites that they can parti
 <ul>
  <li>Random Events generation</li>
  <li>Event listing</li>
+ <li>View the listed events</li>
+ </ul>
 
 # Public API Used
 https://www.boredapi.com/
