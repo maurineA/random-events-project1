@@ -11,7 +11,12 @@ body #searchButton {
     height: 80px;
 }
 
-#heading , #subheading {
+#heading {
+    text-align: center;
+    color: red;
+}
+
+#subheading {
     text-align: center;
 }
 
