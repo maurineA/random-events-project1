@@ -28,8 +28,8 @@ Activities: http://www.boredapi.com/api/activity/
 </ul>
 
 # How To Use
-
 <ul>
+<li>Use this link  https://maurinea.github.io/random-events-project1/ on the browser or</li>
 <li>start the live server</li>
 <li>Click the button to generate random events as many as you want</li>
 <li>Input your own events and submit</li>
@@ -43,7 +43,7 @@ Activities: http://www.boredapi.com/api/activity/
 </ul>
 
 # Installation Process
-<ul> Use this link to access the Random Events 
+<ul> Use this link to access the Random Events  https://maurinea.github.io/random-events-project1/
 </ul>
 
 <ul>
