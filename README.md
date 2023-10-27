@@ -8,9 +8,24 @@ By Maurine Wambui
 
 This Application helps users to genetare in random activites that they can participate in. This Application also provide a platform for users to list their own activities. 
 
+# PROJECT MVP
+<ul>
+ <li>Random Events generation</li>
+ <li>Event listing</li>
 
+# Public API Used
+https://www.boredapi.com/
 
-# How to Use
+Activities: http://www.boredapi.com/api/activity/
+
+# Project User Stories
+<ul>
+<li>The user finds things to do when you're bored by clicking on the button</li>
+<li>After Clicking the button random events are generated</li>
+<li>The user inputs events of their choice and displays them on the DOM</li>
+</ul>
+
+# How To Use
 
 <ul>
 <li>start the live server</li>
@@ -26,6 +41,8 @@ This Application helps users to genetare in random activites that they can parti
 </ul>
 
 # Installation Process
+<ul> Use this link to access the Random Events 
+</ul>
 
 <ul>
 <li>Clone this repository using
